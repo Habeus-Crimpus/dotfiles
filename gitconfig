@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tchang343w@gmail.com
+	name = Tyler Chang
